@@ -1,4 +1,5 @@
-Leetcode official website: https://leetcode.com/problemset/all/
+> Leetcode official website: https://leetcode.com/problemset/all/ <br>
+> Reference: https://github.com/youngyangyang04/leetcode-master
 
 * Data Structures
   + Array 数组
